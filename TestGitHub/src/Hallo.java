@@ -1,6 +1,4 @@
 
 public class Hallo {
-	
-	int g =7;
-
+int aber =4;
 }
